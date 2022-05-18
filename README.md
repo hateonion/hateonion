@@ -1,2 +1,1 @@
-# metrics
-github matrics
+![](./github-metrics.svg)
